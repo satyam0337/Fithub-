@@ -37,7 +37,8 @@ Designed the clone with the static page with fuctional features within the stipu
 
 - **Home Page**
 
-(![image](https://user-images.githubusercontent.com/105915649/208588154-ba157b8c-867e-433d-82d1-57e235c82d53.png)
+![image](https://user-images.githubusercontent.com/105915649/208588267-d9127744-9cc8-44e9-a367-c19061d7d975.png)
+
  
 
 ![Fithub_2]( )
